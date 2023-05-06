@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+*.log
+*.csv
+*.db
+*.sqlite
+.env
+.venv/
+data/
+stock_data_analyzer/data/
